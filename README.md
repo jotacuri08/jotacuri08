@@ -11,7 +11,7 @@
 ## Projects 📚
 [Trabalho Interdisciplinar I - Front-End](https://github.com/jotacuri08/PUC__CC/blob/main/1_Periodo/TI_I/ti-1-pmg-cc-m-20231-tiaw-financas-finmanage)
 
-Trabalho Interdisciplinar II - Back-End
+[Trabalho Interdisciplinar II - Back-End](https://github.com/guilhermedebrites/TI-II/tree/384ca495ffedd1ed11fa5bc222fb3e6b16937e8b)
 
 <!--
 **jotacuri08/jotacuri08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
