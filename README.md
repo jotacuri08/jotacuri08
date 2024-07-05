@@ -9,8 +9,8 @@
 
 🔍 I am excited about the possibilities that the future of technology holds and am determined to contribute to an increasingly innovative and interconnected world. Let's connect!
 
-## Projects
-Trabalho Interdisciplinar I - Front-End
+## Projects 📚
+[Trabalho Interdisciplinar I - Front-End](https://github.com/jotacuri08/PUC__CC/blob/main/1_Periodo/TI_I/ti-1-pmg-cc-m-20231-tiaw-financas-finmanage)
 
 Trabalho Interdisciplinar II - Back-End
 
